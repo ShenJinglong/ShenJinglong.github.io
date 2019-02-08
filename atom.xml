@@ -43,16 +43,19 @@
     <link href="http://yoursite.com/Math/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/"/>
     <id>http://yoursite.com/Math/随机变量及其分布/</id>
     <published>2019-02-08T05:21:29.000Z</published>
-    <updated>2019-02-08T10:58:00.464Z</updated>
+    <updated>2019-02-08T11:06:24.509Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;离散型&quot;&gt;&lt;a href=&quot;#离散型&quot; class=&quot;headerlink&quot; title=&quot;离散型&quot;&gt;&lt;/a&gt;离散型&lt;/h2&gt;&lt;hr&gt;
-&lt;h4 id=&quot;0-1-分布&quot;&gt;&lt;a href=&quot;#0-1-分布&quot; class=&quot;heade
-      
+      &lt;h2 id=&quot;离散型&quot;&gt;&lt;a href=&quot;#离散型&quot; class=&quot;headerlink&quot; title=&quot;离散型&quot;&gt;&lt;/a&gt;离散型&lt;/h2&gt;&lt;hr&gt;
+&lt;h4 id=&quot;0-1-分布&quot;&gt;&lt;a href=&quot;#0-1-分布&quot; class=&quot;headerlink&quot; title=&quot;0 - 1 分布&quot;&gt;&lt;/a&gt;0 - 1 分布&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;分布律&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$ P \lbrace x = k \rbrace = p^k (1-p)^{1-k}, (k = 0, 1; 0 &amp;lt; p &amp;lt; 1)$$&lt;/p&gt;
+&lt;h4 id=&quot;二项分布&quot;&gt;&lt;a href=&quot;#二项分布&quot; class=&quot;headerlink&quot; title=&quot;二项分布&quot;&gt;&lt;/a&gt;二项分布&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;分布律&lt;/strong&gt; $ X \sim b(n, p) $&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$ P \lbrace x = k \rbrace = C_n^k p^k(1-p)^{1-k}, (k = 0, 1, 2, \cdots) $$&lt;/p&gt;
     
     </summary>
     
