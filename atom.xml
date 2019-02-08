@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>木头</title>
+  
+  <subtitle>This is your journey</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-08T05:29:35.473Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>sjinglong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>8b/10b编解码器的Verilog实现</title>
+    <link href="http://yoursite.com/uncategorized/8b-10b%E7%BC%96%E8%A7%A3%E7%A0%81%E5%99%A8%E7%9A%84Verilog%E5%AE%9E%E7%8E%B0/"/>
+    <id>http://yoursite.com/uncategorized/8b-10b编解码器的Verilog实现/</id>
+    <published>2019-02-08T05:28:13.000Z</published>
+    <updated>2019-02-08T05:29:35.473Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;我用于测试的图片大小为 269*269 的，如果你的图片大小不同，就还得修改一些地方。写的比较仓促，我水平也有限，将就参考参考吧&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6 id=&quot;这是我用于测试的图片：&quot;&gt;&lt;a href=&quot;#这是我用于测试的图片
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随机变量及其分布</title>
+    <link href="http://yoursite.com/uncategorized/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/"/>
+    <id>http://yoursite.com/uncategorized/随机变量及其分布/</id>
+    <published>2019-02-08T05:21:29.000Z</published>
+    <updated>2019-02-08T05:26:14.526Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;离散型&quot;&gt;&lt;a href=&quot;#离散型&quot; class=&quot;headerlink&quot; title=&quot;离散型&quot;&gt;&lt;/a&gt;离散型&lt;/h2&gt;&lt;hr&gt;
+&lt;h4 id=&quot;0-1-分布&quot;&gt;&lt;a href=&quot;#0-1-分布&quot; class=&quot;headerlink&quot; title=&quot;0 - 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于学习音乐的一个重要问题--练耳</title>
+    <link href="http://yoursite.com/uncategorized/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0%E9%9F%B3%E4%B9%90%E7%9A%84%E4%B8%80%E4%B8%AA%E9%87%8D%E8%A6%81%E9%97%AE%E9%A2%98-%E7%BB%83%E8%80%B3/"/>
+    <id>http://yoursite.com/uncategorized/关于学习音乐的一个重要问题-练耳/</id>
+    <published>2019-02-08T05:12:06.000Z</published>
+    <updated>2019-02-08T05:20:29.933Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;这篇文章是徐大大大大大大清写的，我觉得很有用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;我的问题究竟在哪里？&quot;&gt;&lt;a href=&quot;#我的问题究竟在哪里？&quot; class=&quot;headerlink&quot; title=&quot;我的问题究竟在哪里？&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>minAreaRect函数返回值说明</title>
+    <link href="http://yoursite.com/uncategorized/minAreaRect%E5%87%BD%E6%95%B0%E8%BF%94%E5%9B%9E%E5%80%BC%E8%AF%B4%E6%98%8E/"/>
+    <id>http://yoursite.com/uncategorized/minAreaRect函数返回值说明/</id>
+    <published>2019-02-08T05:08:33.000Z</published>
+    <updated>2019-02-08T05:09:23.611Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;最近在看代码的时候发现 OpenCV 里面 minAreaRect() 这个函数返回的旋转矩形的 angle, height, width 有点让人困惑，不清楚为什么它们的值是那么多，网上找的解释竟然解释的还不一样，于是就自己写代码验证了一下，我也
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu16.04LTS下编译安装OpenCV</title>
+    <link href="http://yoursite.com/uncategorized/Ubuntu16-04LTS%E4%B8%8B%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85OpenCV/"/>
+    <id>http://yoursite.com/uncategorized/Ubuntu16-04LTS下编译安装OpenCV/</id>
+    <published>2019-02-08T05:05:45.000Z</published>
+    <updated>2019-02-08T05:07:45.505Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Ubuntu16-04LTS下编译安装OpenCV&quot;&gt;&lt;a href=&quot;#Ubuntu16-04LTS下编译安装OpenCV&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu16.04LTS下编译安装OpenCV&quot;&gt;&lt;/a&gt;Ubuntu16.04
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派下编译安装OpenCV-3.4.1</title>
+    <link href="http://yoursite.com/uncategorized/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%B8%8B%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85OpenCV-3-4-1/"/>
+    <id>http://yoursite.com/uncategorized/树莓派下编译安装OpenCV-3-4-1/</id>
+    <published>2019-02-08T05:00:58.000Z</published>
+    <updated>2019-02-08T05:04:33.886Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;树莓派下编译安装OpenCV-3-4-1&quot;&gt;&lt;a href=&quot;#树莓派下编译安装OpenCV-3-4-1&quot; class=&quot;headerlink&quot; title=&quot;树莓派下编译安装OpenCV-3.4.1&quot;&gt;&lt;/a&gt;树莓派下编译安装OpenCV-3.4.1&lt;/h3&gt;&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派初次使用教程</title>
+    <link href="http://yoursite.com/uncategorized/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/uncategorized/树莓派初次使用教程/</id>
+    <published>2019-02-08T04:43:57.000Z</published>
+    <updated>2019-02-08T04:59:51.057Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;树莓派初次使用教程&quot;&gt;&lt;a href=&quot;#树莓派初次使用教程&quot; class=&quot;headerlink&quot; title=&quot;树莓派初次使用教程&quot;&gt;&lt;/a&gt;树莓派初次使用教程&lt;/h3&gt;&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个教程主要是针对你身边没有显示器，键盘等之类的
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
