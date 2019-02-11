@@ -125,9 +125,9 @@
       <category term="OpenCV" scheme="http://yoursite.com/categories/OpenCV/"/>
     
     
-      <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
-    
       <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
+    
+      <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
     
   </entry>
   
@@ -147,9 +147,9 @@
       <category term="OpenCV" scheme="http://yoursite.com/categories/OpenCV/"/>
     
     
-      <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
-    
       <category term="raspberryPi" scheme="http://yoursite.com/tags/raspberryPi/"/>
+    
+      <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
     
   </entry>
   
