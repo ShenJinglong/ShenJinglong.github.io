@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-11T14:17:06.506Z</updated>
+  <updated>2019-02-15T21:30:18.557Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>林清玄的汽水</title>
+    <link href="http://yoursite.com/%E6%9E%97%E6%B8%85%E7%8E%84-%E6%96%87%E5%AD%97/%E6%9E%97%E6%B8%85%E7%8E%84%E7%9A%84%E6%B1%BD%E6%B0%B4/"/>
+    <id>http://yoursite.com/林清玄-文字/林清玄的汽水/</id>
+    <published>2019-02-15T20:04:32.000Z</published>
+    <updated>2019-02-15T21:30:18.557Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;幸福是喝汽水喝到打嗝，一边打一边微笑，人生多么美好。&lt;/p&gt;
+&lt;p&gt;摘自林清玄的一次演讲&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="林清玄 文字" scheme="http://yoursite.com/categories/%E6%9E%97%E6%B8%85%E7%8E%84-%E6%96%87%E5%AD%97/"/>
+    
+    
+      <category term="文字" scheme="http://yoursite.com/tags/%E6%96%87%E5%AD%97/"/>
+    
+  </entry>
   
   <entry>
     <title>8b/10b编解码器的Verilog实现</title>
