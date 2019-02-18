@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-15T21:30:18.557Z</updated>
+  <updated>2019-02-18T14:05:35.668Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>林清玄的汽水</title>
-    <link href="http://yoursite.com/%E6%9E%97%E6%B8%85%E7%8E%84-%E6%96%87%E5%AD%97/%E6%9E%97%E6%B8%85%E7%8E%84%E7%9A%84%E6%B1%BD%E6%B0%B4/"/>
-    <id>http://yoursite.com/林清玄-文字/林清玄的汽水/</id>
+    <link href="http://yoursite.com/%E6%96%87%E5%AD%97/%E6%9E%97%E6%B8%85%E7%8E%84%E7%9A%84%E6%B1%BD%E6%B0%B4/"/>
+    <id>http://yoursite.com/文字/林清玄的汽水/</id>
     <published>2019-02-15T20:04:32.000Z</published>
-    <updated>2019-02-15T21:30:18.557Z</updated>
+    <updated>2019-02-18T14:05:35.668Z</updated>
     
     <summary type="html">
     
@@ -30,10 +30,12 @@
     
     </summary>
     
-      <category term="林清玄 文字" scheme="http://yoursite.com/categories/%E6%9E%97%E6%B8%85%E7%8E%84-%E6%96%87%E5%AD%97/"/>
+      <category term="文字" scheme="http://yoursite.com/categories/%E6%96%87%E5%AD%97/"/>
     
     
       <category term="文字" scheme="http://yoursite.com/tags/%E6%96%87%E5%AD%97/"/>
+    
+      <category term="林清玄" scheme="http://yoursite.com/tags/%E6%9E%97%E6%B8%85%E7%8E%84/"/>
     
   </entry>
   
