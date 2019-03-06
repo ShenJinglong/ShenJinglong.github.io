@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-18T14:05:35.668Z</updated>
+  <updated>2019-02-18T14:20:08.483Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/%E6%96%87%E5%AD%97/%E6%9E%97%E6%B8%85%E7%8E%84%E7%9A%84%E6%B1%BD%E6%B0%B4/"/>
     <id>http://yoursite.com/文字/林清玄的汽水/</id>
     <published>2019-02-15T20:04:32.000Z</published>
-    <updated>2019-02-18T14:05:35.668Z</updated>
+    <updated>2019-02-18T14:20:08.483Z</updated>
     
     <summary type="html">
     
@@ -66,7 +66,7 @@
     <link href="http://yoursite.com/Math/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/"/>
     <id>http://yoursite.com/Math/随机变量及其分布/</id>
     <published>2019-02-08T05:21:29.000Z</published>
-    <updated>2019-02-11T14:16:28.976Z</updated>
+    <updated>2019-03-06T16:52:36.605Z</updated>
     
     <summary type="html">
     
@@ -148,9 +148,9 @@
       <category term="OpenCV" scheme="http://yoursite.com/categories/OpenCV/"/>
     
     
-      <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
-    
       <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
+    
+      <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
     
   </entry>
   
