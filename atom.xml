@@ -102,7 +102,7 @@
     <link href="http://yoursite.com/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%99%A8%E4%BB%B6/"/>
     <id>http://yoursite.com/模拟电子线路/半导体器件/</id>
     <published>2019-03-10T05:48:05.000Z</published>
-    <updated>2019-03-29T06:22:48.573Z</updated>
+    <updated>2019-03-29T16:22:14.279Z</updated>
     
     <summary type="html">
     
@@ -251,9 +251,9 @@
       <category term="OpenCV" scheme="http://yoursite.com/categories/OpenCV/"/>
     
     
-      <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
-    
       <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
+    
+      <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
     
   </entry>
   
