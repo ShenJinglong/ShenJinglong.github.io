@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-30T05:55:55.056Z</updated>
+  <updated>2019-03-30T06:00:22.638Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>放大器基础</title>
-    <link href="http://yoursite.com/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E5%9F%BA%E7%A1%80/%E6%94%BE%E5%A4%A7%E5%99%A8%E5%9F%BA%E7%A1%80/"/>
-    <id>http://yoursite.com/模拟电子线路基础/放大器基础/</id>
+    <link href="http://yoursite.com/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E6%94%BE%E5%A4%A7%E5%99%A8%E5%9F%BA%E7%A1%80/"/>
+    <id>http://yoursite.com/模拟电子线路/放大器基础/</id>
     <published>2019-03-30T05:11:06.000Z</published>
-    <updated>2019-03-30T05:55:55.056Z</updated>
+    <updated>2019-03-30T06:00:22.638Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,7 @@
     
     </summary>
     
-      <category term="模拟电子线路基础" scheme="http://yoursite.com/categories/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E5%9F%BA%E7%A1%80/"/>
+      <category term="模拟电子线路" scheme="http://yoursite.com/categories/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/"/>
     
     
       <category term="小结" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%BB%93/"/>
