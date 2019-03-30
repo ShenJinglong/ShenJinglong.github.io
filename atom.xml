@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-24T04:47:45.236Z</updated>
+  <updated>2019-03-30T05:51:05.313Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>放大器基础</title>
+    <link href="http://yoursite.com/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E5%9F%BA%E7%A1%80/%E6%94%BE%E5%A4%A7%E5%99%A8%E5%9F%BA%E7%A1%80/"/>
+    <id>http://yoursite.com/模拟电子线路基础/放大器基础/</id>
+    <published>2019-03-30T05:11:06.000Z</published>
+    <updated>2019-03-30T05:51:05.313Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot; class=&quot;headerlink&quot; title=&quot;第二章&quot;&gt;&lt;/a&gt;第二章&lt;/h2&gt;&lt;p&gt;小结&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;放大器概述&quot;&gt;&lt;a href=&quot;#放大器概述&quot; class=&quot;headerlink&quot; tit
+      
+    
+    </summary>
+    
+      <category term="模拟电子线路基础" scheme="http://yoursite.com/categories/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="小结" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>Alto</title>
@@ -251,9 +276,9 @@
       <category term="OpenCV" scheme="http://yoursite.com/categories/OpenCV/"/>
     
     
-      <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
-    
       <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
+    
+      <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
     
   </entry>
   

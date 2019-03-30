@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[放大器基础]]></title>
+    <url>%2F%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E5%9F%BA%E7%A1%80%2F%E6%94%BE%E5%A4%A7%E5%99%A8%E5%9F%BA%E7%A1%80%2F</url>
+    <content type="text"><![CDATA[第二章小结 放大器概述放大器的用途和分类 放大器表面上只是增大了信号的幅度，但其实质是一种能量转换，即用小的信号功率（电压）去控制电源供给的直流功率，把它转换成负载所需要的大的信号功率（电压） 放大器中常用符号的规定 $u_{BE}$：（小写字母、大写下标）– 基极到发射极电压的瞬时值 $U_{BE}$：（大写字母、大写下标）– 基极到发射极电压的直流成分 $u_{be}$：（小写字母、小写下标）– 基极到发射极交流电压的瞬时值 $U_{be}$：（大写字母、小写下标）– 基极到发射极交流电压$u_{be}$的有效值 $U_{bem}$：– $u_{be}$的峰值或振幅 $\dot{U}_{be}$：– 基极到发射极交流电压的复数表示 $u_{BE}=U_{BE}+u_{be}=U_{BE}+U_{bem}\sin\omega t=U_{BE}+\sqrt{2}U_{be}\sin\omega t$ 放大器的主要性能指标输入电阻$R_i$$$R_i=U_i/I_i$$ 放大倍数 电压放大倍数$\dot{A}_u=\dot{U}_o/\dot{U}_i=\cfrac{R_L}{R_o+R_L}\dot{A}_{uo}$ 负载开路时的电压放大倍数$\dot{A}{uo}=\dot{U}{oo}/\dot{U}i$，式中$\dot{U}{oo}$是负载开路时的输出电压 $\dot{U}_o$与信号源开路电压$\dot{U}s$之比，即考虑信号源内阻时的电压放大倍数，称为源电压放大倍数，记作$\dot{A}{us}$，即 $$\dot{A}_{us}=\cfrac{\dot{U}_o}{\dot{U}_s}=\cfrac{\dot{U}_i}{\dot{U}_s}\cdot\cfrac{\dot{U}_o}{\dot{U}_i}=\cfrac{R_i}{R_s+R_i}\dot{A}_u=\cfrac{R_i}{R_s+R_i}\cdot\cfrac{R_L}{R_o+R_L}\dot{A}_{uo}$$ 由上式可见，为了得到尽可能大的电压增益，要求$R_i\gg R_s$，$R_o\ll R_L$。所以对于理想的电压放大器，有$R_i\rightarrow\infty$，$R_o=0$]]></content>
+      <categories>
+        <category>模拟电子线路基础</category>
+      </categories>
+      <tags>
+        <tag>小结</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Alto]]></title>
     <url>%2F%E6%96%87%E5%AD%97%2FAlto%2F</url>
     <content type="text"><![CDATA[Alto 滑累了就坐下来歇歇，烤烤火吧]]></content>
@@ -121,8 +132,8 @@
         <category>OpenCV</category>
       </categories>
       <tags>
-        <tag>Ubuntu</tag>
         <tag>OpenCV</tag>
+        <tag>Ubuntu</tag>
       </tags>
   </entry>
   <entry>
